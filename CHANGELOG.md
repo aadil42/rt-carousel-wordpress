@@ -1,5 +1,46 @@
 # Changelog
 
+## [2.1.0](https://github.com/rtCamp/rt-carousel/compare/2.0.3...2.1.0) - 2026-08-03
+
+### Features
+* Add fade transition option. [#159](https://github.com/rtCamp/rt-carousel/pull/159)
+* Add Embla Auto Scroll plugin support with editor controls.[#152](https://github.com/rtCamp/rt-carousel/pull/152)
+* Add LazyLoadImages toggle to Carousel block with per-slide override option.[#100](https://github.com/rtCamp/rt-carousel/pull/100)
+* Added carousel tabs mode.[#167](https://github.com/rtCamp/rt-carousel/pull/167)
+
+### Maintenance
+* Add logic to reset autoplay and autoscroll on carousel interaction.[#164](https://github.com/rtCamp/rt-carousel/pull/164)
+* Fixes issues with tab not able to edit tab title and also removes tab lists when tabs are toggled off.[#173](https://github.com/rtCamp/rt-carousel/pull/173)
+* Mark query loop slides with the active-slide directives.[#180](https://github.com/rtCamp/rt-carousel/pull/180)
+* Improve Auto Scroll UX and enforce compatible transition settings.[#165](https://github.com/rtCamp/rt-carousel/pull/165)
+
+## [2.0.3](https://github.com/rtCamp/rt-carousel/compare/2.0.2...2.0.3) (2026-06-24)
+
+
+### Maintenance
+
+* update plugin display name to a more descriptive title for discoverability
+
+
+## [2.0.2](https://github.com/rtCamp/rt-carousel/compare/2.0.1...2.0.2) (2026-06-08)
+
+
+### Features
+
+* add accessible Carousel Counter block ([#139](https://github.com/rtCamp/rt-carousel/pull/139)) ([49fd86b](https://github.com/rtCamp/rt-carousel/commit/49fd86b))
+* add slide template picker and starter templates for carousel block ([#83](https://github.com/rtCamp/rt-carousel/pull/83)) ([dd90468](https://github.com/rtCamp/rt-carousel/commit/dd90468))
+* add Terms Query support and Terms Query carousel pattern ([#131](https://github.com/rtCamp/rt-carousel/pull/131)) ([b0cf807](https://github.com/rtCamp/rt-carousel/commit/b0cf807))
+
+
+### Maintenance
+
+* confirm compatibility with WordPress 7.0
+* update axios from 1.15.0 to 1.16.0 ([#136](https://github.com/rtCamp/rt-carousel/pull/136)) ([6073e39](https://github.com/rtCamp/rt-carousel/commit/6073e39))
+* update fast-uri from 3.1.0 to 3.1.2 ([#137](https://github.com/rtCamp/rt-carousel/pull/137)) ([4762978](https://github.com/rtCamp/rt-carousel/commit/4762978))
+* update ip-address from 10.1.0 to 10.2.0 ([#135](https://github.com/rtCamp/rt-carousel/pull/135)) ([98ddd50](https://github.com/rtCamp/rt-carousel/commit/98ddd50))
+* update postcss from 8.5.6 to 8.5.13 ([#132](https://github.com/rtCamp/rt-carousel/pull/132)) ([0093274](https://github.com/rtCamp/rt-carousel/commit/0093274))
+
+
 ## [2.0.1](https://github.com/rtCamp/rt-carousel/compare/v2.0.0...v2.0.1) (2026-05-04)
 
 
